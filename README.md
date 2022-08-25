@@ -1,6 +1,6 @@
 # BISB Bootcamp Docker Image
 
-## How to add packages to yaml
+## How to add packages to the `bootcamp` conda environment
 
 1. Clone this repo 
 2. Add your lines
