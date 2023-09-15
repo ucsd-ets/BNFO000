@@ -1,7 +1,7 @@
 # base notebook, contains Jupyter and relevant tools
 # See https://github.com/ucsd-ets/datahub-docker-stack/wiki/Stable-Tag 
 # for a list of the most current containers we maintain
-FROM ucsdets/datahub-base-notebook:latest
+FROM docker pull ghcr.io/ucsd-ets/datascience-notebook:2023.4-stable
 
 LABEL maintainer="Mike Cuoco <mcuoco@ucsd.edu>"
 
